@@ -1,5 +1,69 @@
 Look in: [English](/README_en.md) | Português
 
-# Olá, meu nome é Victor Taveira, seja bem vindo ao meu playground.
+<h1> Quem sou... </h1>
 
-Curso sistemas de informação na [FIPP](https://www.unoeste.br/fipp/), que é um núcleo de tecnologia dentro da segunda melhor universidade particular do Brasil, onde atualmente me encontro no 6º termo. Passei por diversos tipos de disciplinas, que vão desde soft-skills até hard-skills, nelas, inclui-se as disciplinas de gestão, como: Gestão Organizacional, Gestão Financeira, Gestão da Informação e de Sistemas de Informação, Gestão de Processos, dentro outros diversos. Disciplinas de algoritmos e técnicas de programação, estruturas de dados, banco de dados, e muitas outras tecnologias que tive contato, dentre as que já tive contato tanto fora quanto dentro do curso estão (Node.Js, Stack Html, Css, Javascript, C# e ASP.NET, Java Web com Spring Boot, C, C++, Linux e o funcionamento de sistemas operacionais), se quer conhecer melhor a grade da minha formação [clique aqui](https://www.unoeste.br/graduacao/faculdade-de-sistemas-informacao/MatrizCurricular).
+Programador.
+
+<br/>
+<p align="center"> 
+  <b> 
+    <a href="https://github.com/src-rodrigues/veterinary-mvp-pattern" target="_blank">Veterinay MVP Pattern</a>
+  </b>
+</p>
+
+Sistema feito em formulários windows, com banco de dados em MySQL, para gerenciar um petshop, onde é possível cadastrar clientes, animais, serviços, funcionários, fornecedores, e realizar vendas, com emissão de nota fiscal, e relatórios.
+
+<details>
+<summary> 👈🏽 <i> Clique aqui para para ver mais detalhes </i> </summary>
+  <br />
+  <div align="center">
+    <a href="https://github.com/src-rodrigues/veterinary-mvp-pattern" target="_blank">
+      <img src="images/veterinary-mvp-pattern.PNG" alt="MainPage" width="750" height="400">
+    </a>
+  </div>
+</details>
+
+<br/>
+<p align="center"> <b> <a href="https://github.com/src-rodrigues/nfe-dom-reader">NFe Dom Reader</a> </b> </p>
+
+Site estático feito em Javascript puro, para ler arquivos XML de notas fiscais eletrônicas, e exibir os dados em uma tabela.
+
+<details>
+<summary> 👈🏽 Clique aqui para para ver mais detalhes </summary>
+  <br />
+  <div align="center">
+    <a href="https://github.com/src-rodrigues/nfe-dom-reader">
+      <img src="images/nfe-dom-reader.PNG" alt="MainPage" width="750" height="300">
+    </a>
+  </div>
+</details>
+
+<br/>
+<p align="center"> <b> <a href="https://github.com/src-rodrigues/ether-gestor-sys">Ether Gestor Sys</a> </b> </p>
+
+Ether Gestor Sys é um sistema de gestão de estoque, feito em Windows Forms com C#, e banco de dados em MySQL, onde é possível cadastrar produtos, fornecedores, clientes, e realizar vendas, com emissão de nota fiscal, e relatórios, com API .NET via DLL integrada na aplicação.
+
+<details>
+<summary> 👈🏽 Clique aqui para para ver mais detalhes </summary>
+  <br />
+  <div align="center">
+    <a href="https://github.com/src-rodrigues/ether-gestor-sys/">
+      <img src="images/ether-gestor-sys.PNG" alt="MainPage" height="300">
+    </a>
+  </div>
+</details>
+
+<br/>
+<p align="center"> <b> <a href="https://github.com/src-rodrigues/calculadora-de-boteco">Calculadora de Boteco</a> </b> </p>
+
+Calculadora de Boteco, é uma aplicação front-end, react, que tem como objetivo calcular o valor de uma conta de um boteco.
+
+<details>
+<summary> 👈🏽 Clique aqui para para ver mais detalhes </summary>
+  <br />
+  <div align="center">
+    <a href="https://github.com/src-rodrigues/calculadora-de-boteco">
+      <img src="images/calculadora-de-boteco.png" alt="MainPage" height="400">
+    </a>
+  </div>
+</details>
